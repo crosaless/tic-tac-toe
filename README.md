@@ -1,5 +1,6 @@
 # tic-tac-toe
-tateti implemented in react with js and node
+tateti implemented in react with js and node<br/>
+
 [![technologies](https://skillicons.dev/icons?i=react,js,nodejs&theme=light)](https://skillicons.dev)
 
 
